@@ -1,0 +1,5 @@
+azure-cognitiveservices-vision-computervision
+python-telegram-bot
+openai
+vobject
+python-dotenv
